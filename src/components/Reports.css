@@ -1,0 +1,10 @@
+.reports-container {
+    background: beige;
+    max-width: 1200px; /* Increased max-width for a larger container */
+    margin: 50px auto; /* Center the container */
+    padding: 40px; /* Increased padding for more space inside */
+    border: 1px solid #ddd; /* Border for the box */
+    color: rgb(61, 58, 58);
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}

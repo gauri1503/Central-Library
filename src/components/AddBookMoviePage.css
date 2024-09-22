@@ -1,0 +1,10 @@
+.addbook-container {
+    background: beige;
+    max-width: 1200px; 
+    margin: 50px auto; 
+    padding: 40px; 
+    border: 1px solid #ddd;
+    color: rgb(61, 58, 58);
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
